@@ -1,0 +1,118 @@
+{
+    "CreditCards": [
+        {
+            "Label": "American Express",
+            "Number": 1234123412341234,
+            "Expiration": [
+                {
+                    "Month": 4
+                },
+                {
+                    "Year": 2015
+                }
+            ],
+            "CardHolder": "John Q. Smith",
+            "BillingAddress": {
+                "Street1": "123 N. Main St",
+                "Street2": "Apt #C",
+                "City": "San Francisco",
+                "State": "CA",
+                "Zip": "12345"
+            },
+            "MetaData": {
+                "CCVisVerified": 1,
+                "LastDateUsed": [
+                    {
+                        "Day": 12
+                    },
+                    {
+                        "Month": 23
+                    },
+                    {
+                        "Year": 20113
+                    }
+                ]
+            }
+        },
+        {
+            "Label": "Macy's Star Rewards",
+            "Number": 1234123412341234,
+            "Expiration": [
+                {
+                    "Month": 4
+                },
+                {
+                    "Year": 2015
+                }
+            ],
+            "CardHolder": "John Q. Smith",
+            "BillingAddress": {
+                "Street1": "123 N. Main St",
+                "Street2": "Apt #C",
+                "City": "San Francisco",
+                "State": "CA",
+                "Zip": "12345"
+            },
+            "MetaData": {
+                "CCVisVerified": 1,
+                "LastDateUsed": [
+                    {
+                        "Day": 12
+                    },
+                    {
+                        "Month": 23
+                    },
+                    {
+                        "Year": 20113
+                    }
+                ],
+                "Balance": 123.45,
+                "BillPayStatus": "OK",
+                "BillDueDate": [
+                    {
+                        "Day": 12
+                    },
+                    {
+                        "Month": 11
+                    }
+                ]
+            }
+        }
+    ],
+    "GiftCards": [
+        {
+            "Type": "VGC",
+            "Label": "$50 Virtual Gift Card",
+            "Number": 123413241234123,
+            "RemainderBalance": 12.34,
+            "LastDateUsed": [
+                {
+                    "Day": 12
+                },
+                {
+                    "Month": 23
+                },
+                {
+                    "Year": 2012
+                }
+            ]
+        },
+        {
+            "Type": "GC",
+            "Label": "$100 Gift Card",
+            "Number": 123413241234123,
+            "RemainderBalance": 100,
+            "LastDateUsed": [
+                {
+                    "Day": 0
+                },
+                {
+                    "Month": 0
+                },
+                {
+                    "Year": 0
+                }
+            ]
+        }
+    ]
+}

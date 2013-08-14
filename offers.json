@@ -1,0 +1,49 @@
+{
+	"Offers" :
+	[
+		{
+			"OfferID"	: 3482839233234,
+			"Type"		: "FauxCard",
+			"Label"		: "10% OFF MEN"S SHIRTS",
+			"Tagline"	: "Includes all Clearance items. Available in store and online",
+			"Disclosure"	: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis felis enim. Morbi eget nibh justo. Quisque ut nisl sit amet nisi elementum porta sagittis at nisi. Proin rutrum orci mollis sem viverra imperdiet. Mauris posuere lacus at neque dictum rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vel ante nec ipsum hendrerit commodo. Aenean eget elit sit amet sem fermentum pellentesque a tincidunt.",
+			"Expiration"	: {
+				"Day"	: 12,
+				"Month"	: 12,
+				"Year"	: 13
+			},
+			"MetaData" :
+			{
+				"Code"			: "SD9283443MM5543DWE989",
+				"EligibleProguctCatIDs"	: 
+				[
+					238423343,
+					239993288,
+					238899211
+				]
+			}
+		},
+		{
+			"OfferID"	: 3482839233234,
+			"Type"		: "FauxCard",
+			"Label"		: "10% OFF MEN"S SHIRTS",
+			"Tagline"	: "Includes all Clearance items. Available in store and online",
+			"Disclosure"	: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis felis enim. Morbi eget nibh justo. Quisque ut nisl sit amet nisi elementum porta sagittis at nisi. Proin rutrum orci mollis sem viverra imperdiet. Mauris posuere lacus at neque dictum rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vel ante nec ipsum hendrerit commodo. Aenean eget elit sit amet sem fermentum pellentesque a tincidunt.",
+			"Expiration"	: {
+				"Day"	: 12,
+				"Month"	: 12,
+				"Year"	: 13
+			},
+			"MetaData" :
+			{
+				"Code"			: "SD9283443MM5543DWE989",
+				"EligibleProguctCatIDs"	: 
+				[
+					238423343,
+					239993288,
+					238899211
+				]
+			}
+		}
+	]
+}

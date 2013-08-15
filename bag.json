@@ -1,41 +1,44 @@
 {
-	"Bag" :
-	[
-		{
-			"WebID"			: 2349872348392323,
-			"Label"			: "Lorem Ipsum Sit Amet Dolor Nauseam Dremoris Laudat",
-			"ThumbURL"		: "mcom.fds/store/products/blah/?id=45",
-			"Quantity"		: 1,
-			"UnitPrice"		: 79.00,
-			"Type"			: null, /* not all products have a type */
-			"Size"			: "XL",
-			"MetaData" :
-			{
-				"OffersApplied"	:
-				[
-					"OferID"	: 3773823732732,
-					"OfferLabel"	: "10% OFF MEN'S SHIRTS"
-				]
-			}
-		},
-		{
-			"WebID"			: 2349872348392323,
-			"Label"			: "Lorem Ipsum Sit Amet Dolor Nauseam Dremoris Laudat",
-			"ThumbURL"		: "mcom.fds/store/products/blah/?id=45",
-			"Quantity"		: 1,
-			"UnitPrice"		: 39.00,
-			"Type"			: null, /* not all products have a type */
-			"Size"			: "XL",
-			"MetaData" :
-			{
-				"OffersApplied"	:
-				[
-					"OferID"	: 0,
-					"OfferLabel"	: 0 /* may not always have an offer applied of course */
-				]
-			}
-		}
-	],
-	"BagTotal"				: 118.00,
-	"OfferValueTotal"			: 21.00
+    "Bag": [
+        {
+            "WebID": 2349872348392323,
+            "Label": "Lorem Ipsum Sit Amet Dolor Nauseam Dremoris Laudat",
+            "ThumbURL": "mcom.fds/store/products/blah/?id=45",
+            "Quantity": 1,
+            "UnitPrice": 79,
+            "Type": "",
+            "Size": "XL",
+            "MetaData": {
+                "OffersApplied": [
+                    {
+                        "OferID": 3773823732732
+                    },
+                    {
+                        "OfferLabel": "10% OFF MEN'S SHIRTS"
+                    }
+                ]
+            }
+        },
+        {
+            "WebID": 2349872348392323,
+            "Label": "Lorem Ipsum Sit Amet Dolor Nauseam Dremoris Laudat",
+            "ThumbURL": "mcom.fds/store/products/blah/?id=45",
+            "Quantity": 1,
+            "UnitPrice": 39,
+            "Type": "",
+            "Size": "XL",
+            "MetaData": {
+                "OffersApplied": [
+                    {
+                        "OferID": 0
+                    },
+                    {
+                        "OfferLabel": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "BagTotal": 118,
+    "OfferValueTotal": 21
 }
